@@ -1,0 +1,1 @@
+Create a program will randomly provide six lucky numbers, from 1 to 49.
